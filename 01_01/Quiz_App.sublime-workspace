@@ -1,0 +1,1152 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"backgorund",
+				"background-image"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"margin-",
+				"margin-right"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"backgo",
+				"background-color"
+			],
+			[
+				"borer",
+				"border-radius"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"todo_",
+				"todo_lists_path"
+			],
+			[
+				"to",
+				"todo_list"
+			],
+			[
+				"todo",
+				"todo_lists_path"
+			],
+			[
+				"link",
+				"link_to"
+			],
+			[
+				"be",
+				"before_action"
+			],
+			[
+				"r",
+				"relationship_to_hae"
+			],
+			[
+				"name",
+				"nameArray"
+			],
+			[
+				"get",
+				"getElementByTag"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"s",
+				"Six"
+			],
+			[
+				"padding-",
+				"padding-top"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"inner",
+				"innerWidth"
+			],
+			[
+				"all",
+				"allowfullscreen"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"ta",
+				"table_number"
+			],
+			[
+				"ni",
+				"NinjaTurtle"
+			],
+			[
+				"Trian",
+				"TriangleError"
+			],
+			[
+				"Tri",
+				"TriangleError"
+			],
+			[
+				"S",
+				"StandardError"
+			],
+			[
+				"Run",
+				"RuntimeError"
+			],
+			[
+				"du",
+				"ducksCollection"
+			],
+			[
+				"Duc",
+				"DucksCollection"
+			],
+			[
+				"new",
+				"newModel"
+			],
+			[
+				"mod",
+				"modelFromCollection"
+			],
+			[
+				"Post",
+				"PostView"
+			],
+			[
+				"C",
+				"Character"
+			],
+			[
+				"Country",
+				"CountryView"
+			],
+			[
+				"c",
+				"countries"
+			],
+			[
+				"a",
+				"ajaxCall"
+			],
+			[
+				"first",
+				"firstView"
+			],
+			[
+				"f",
+				"fortyThird"
+			],
+			[
+				"fo",
+				"fortySecondView"
+			],
+			[
+				"forty",
+				"fortyThird"
+			],
+			[
+				"for",
+				"fortySecond"
+			],
+			[
+				"chan",
+				"changedModel"
+			],
+			[
+				"p",
+				"presidentName"
+			],
+			[
+				"President",
+				"PresidentView"
+			],
+			[
+				"sde",
+				"sedanView"
+			],
+			[
+				"Car",
+				"CarView"
+			],
+			[
+				"id",
+				"idEdit"
+			],
+			[
+				"edit",
+				"editButton"
+			],
+			[
+				"edi",
+				"editLA"
+			],
+			[
+				"dat",
+				"dataLA"
+			],
+			[
+				"rea",
+				"restaurants"
+			],
+			[
+				"lose",
+				"losAngeles"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"data",
+				"dataType"
+			],
+			[
+				"inp",
+				"input2"
+			],
+			[
+				"main",
+				"main-list"
+			],
+			[
+				"scroll",
+				"scrollTop"
+			],
+			[
+				"art",
+				"artistList"
+			],
+			[
+				"movie",
+				"movielist"
+			],
+			[
+				"di",
+				"divResult"
+			],
+			[
+				"mult",
+				"mult"
+			],
+			[
+				"sum",
+				"sumResult"
+			],
+			[
+				"color",
+				"colorScheme"
+			],
+			[
+				"colr",
+				"colorArray"
+			],
+			[
+				"event",
+				"addEventListener"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"append",
+				"appendChild"
+			],
+			[
+				"create",
+				"createElement"
+			],
+			[
+				"getElement",
+				"getElementsByTagName"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"marin",
+				"margin-right"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"random",
+				"randomHuman"
+			],
+			[
+				"sen",
+				"sendToClient"
+			],
+			[
+				"backg",
+				"background-position"
+			],
+			[
+				"topic",
+				"topic_id"
+			],
+			[
+				"topi",
+				"topic_id"
+			],
+			[
+				"read",
+				"readFileSync"
+			],
+			[
+				"body",
+				"body"
+			],
+			[
+				"sh",
+				"showHTML"
+			],
+			[
+				"ren",
+				"renderedHTML"
+			],
+			[
+				"t",
+				"topic_id"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"readFile",
+				"readFileSync"
+			],
+			[
+				"method",
+				"methodOverride"
+			],
+			[
+				"re",
+				"renderedHTML"
+			],
+			[
+				"bo",
+				"bodyParser"
+			],
+			[
+				"journal",
+				"journal_id"
+			],
+			[
+				"journ",
+				"journal_id"
+			],
+			[
+				"tes",
+				"testTemplate"
+			],
+			[
+				"w",
+				"writeEntry"
+			],
+			[
+				"arrival",
+				"arrival_date"
+			],
+			[
+				"owner",
+				"owner_id"
+			],
+			[
+				"nu",
+				"num2"
+			],
+			[
+				"rep",
+				"response"
+			],
+			[
+				"ram",
+				"randomArray"
+			],
+			[
+				"ra",
+				"randomStr"
+			],
+			[
+				"ran",
+				"randomStr"
+			],
+			[
+				"ge",
+				"getInput"
+			],
+			[
+				"str",
+				"stringify"
+			],
+			[
+				"pae",
+				"parsedBody"
+			],
+			[
+				"par",
+				"parsedBody"
+			],
+			[
+				"b",
+				"bigArrayofObjects"
+			],
+			[
+				"big",
+				"bigArrayofObjects"
+			],
+			[
+				"bi",
+				"bigArrayofObjects"
+			],
+			[
+				"json",
+				"jsonString"
+			],
+			[
+				"u",
+				"userInput"
+			],
+			[
+				"add",
+				"addressBook"
+			],
+			[
+				"em",
+				"emailInput"
+			],
+			[
+				"jso",
+				"jsonString"
+			],
+			[
+				"e",
+				"emailInput"
+			],
+			[
+				"pa",
+				"parsedBody"
+			],
+			[
+				"ar",
+				"arrayOfEvents"
+			],
+			[
+				"even",
+				"eventTopic"
+			],
+			[
+				"wu",
+				"wuTangDiscography"
+			],
+			[
+				"album",
+				"albumArray"
+			],
+			[
+				"Fizz",
+				"FizzBuzz"
+			],
+			[
+				"lo",
+				"lowerStr"
+			],
+			[
+				"word",
+				"wordOne"
+			],
+			[
+				"m",
+				"michaelAccount"
+			],
+			[
+				"split",
+				"splitInput"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1593,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "quiz_data.json",
+			"settings":
+			{
+				"buffer_size": 1387,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/quiz.js",
+			"settings":
+			{
+				"buffer_size": 438,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/quiz.css",
+			"settings":
+			{
+				"buffer_size": 3736,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/michael/dev/JavaScript/AngularJS/Quiz App",
+		"/home/michael/dev/JavaScript/AngularJS/Quiz App/01_01",
+		"/home/michael/dev/JavaScript/AngularJS/Quiz App/01_01/css",
+		"/home/michael/dev/JavaScript/AngularJS/Quiz App/01_01/js",
+		"/home/michael/dev/JavaScript/AngularJS/Quiz App/02_02"
+	],
+	"file_history":
+	[
+		"/home/michael/dev/JavaScript/AngularJS/Quiz App/01_01/Quiz_App.sublime-project",
+		"/home/michael/dev/Rails_Apps/Todo/todo/app/views/todo_items/_todo_item.html.erb",
+		"/home/michael/dev/Rails_Apps/Todo/todo/app/controllers/todo_lists_controller.rb",
+		"/home/michael/dev/Rails_Apps/Todo/todo/app/controllers/todo_items_controller.rb",
+		"/home/michael/dev/Rails_Apps/Todo/todo/tmp/cache/assets/development/sprockets/v3.0/yJz4bYKm0N9E_MlgObE3UfOmnKHXz2QDKwtdniP1520.cache",
+		"/home/michael/dev/Rails_Apps/Todo/todo/app/views/todo_lists/new.html.erb",
+		"/home/michael/dev/Rails_Apps/Todo/todo/tmp/cache/assets/development/sprockets/v3.0/7RUW2c2FpvOG2pcgAOZ_aTPjCeI9ep34DQkLbENY5_w.cache",
+		"/home/michael/dev/Rails_Apps/Todo/todo/tmp/cache/assets/development/sprockets/v3.0/OqFYOs-oMHT2TBphqyYn0VvyyNozJrXyuTpDMGm4Vi0.cache",
+		"/home/michael/dev/Rails_Apps/Todo/todo/app/views/todo_lists/edit.html.erb",
+		"/home/michael/dev/Rails_Apps/Todo/todo/app/views/todo_lists/show.html.erb",
+		"/home/michael/dev/Rails_Apps/Todo/todo/config/routes.rb",
+		"/home/michael/dev/Rails_Apps/Todo/todo/app/views/layouts/application.html.erb",
+		"/home/michael/dev/Rails_Apps/Todo/todo/app/views/todo_lists/index.html.erb",
+		"/home/michael/dev/Rails_Apps/Todo/todo/config/initializers/inflections.rb",
+		"/home/michael/dev/Rails_Apps/Todo/todo/app/assets/stylesheets/application.css.scss",
+		"/home/michael/dev/Rails_Apps/Todo/todo/app/models/todo_item.rb",
+		"/home/michael/dev/Rails_Apps/Todo/todo/app/views/todo_items/_form.html.erb",
+		"/home/michael/dev/Rails_Apps/Todo/todo/config/environments/test.rb",
+		"/home/michael/dev/Rails_Apps/Todo/todo/app/models/todo_list.rb",
+		"/home/michael/dev/MySite/public/portfolio.css",
+		"/home/michael/dev/MySite/views/about.erb",
+		"/home/michael/dev/MySite/public/index.css",
+		"/home/michael/dev/MySite/views/index.erb",
+		"/home/michael/dev/StokesDev/MySite/views/portfolio.erb",
+		"/home/michael/dev/StokesDev/MySite/public/portfolio.css",
+		"/home/michael/dev/StokesDev/MySite/views/about.erb",
+		"/home/michael/dev/wdi/Name_That_Tube_2.0/name_that_tube_2.0/tmp/cache/assets/development/sprockets/v3.0/rOhTo1QZ7xD6gY2OQ28cU65o3q5CLgg6Zi6Bc35C0xo.cache",
+		"/home/michael/dev/wdi/Name_That_Tube_2.0/name_that_tube_2.0/Rakefile",
+		"/home/michael/dev/wdi/Project_4:Name_That_Tube/name_that_tube/app/views/layouts/application.haml",
+		"/home/michael/dev/wdi/Project_4:Name_That_Tube/name_that_tube/app/views/players/new.html.erb",
+		"/home/michael/dev/wdi/Project_4:Name_That_Tube/name_that_tube/app/views/categories/index.haml",
+		"/home/michael/dev/wdi/Project_4:Name_That_Tube/name_that_tube/app/controllers/questions_controller.rb",
+		"/home/michael/dev/wdi/Project_4:Name_That_Tube/name_that_tube/app/views/categories/show.haml",
+		"/home/michael/dev/wdi/Project_4:Name_That_Tube/name_that_tube/config/routes.rb",
+		"/home/michael/dev/wdi/Project_4:Name_That_Tube/name_that_tube/db/seeds.rb",
+		"/home/michael/dev/wdi/Project_4:Name_That_Tube/name_that_tube/app/models/question.rb",
+		"/home/michael/dev/wdi/Project_4:Name_That_Tube/name_that_tube/tmp/cache/assets/development/sprockets/v3.0/rl-dqzOpQ48SYZKZHJTn8yJu3wl6_eEic_DTdSM-QB4.cache",
+		"/home/michael/dev/wdi/Project_4:Name_That_Tube/name_that_tube/tmp/cache/assets/development/sprockets/v3.0/32Q4sLatU_hSD-zaCjXcC_sEy9Qo64Te4qTIhsXtDEQ.cache",
+		"/home/michael/dev/wdi/Project_4:Name_That_Tube/name_that_tube/bin/setup",
+		"/home/michael/dev/wdi/Project_4:Name_That_Tube/name_that_tube/tmp/cache/assets/development/sprockets/v3.0/pGACft31yx5oSWLMeyqhCZKQkjYEDEH01_EXf6LZwx8.cache",
+		"/home/michael/dev/wdi/Project_4:Name_That_Tube/name_that_tube/app/models/player.rb",
+		"/home/michael/dev/wdi/Project_4:Name_That_Tube/name_that_tube/config/database.yml",
+		"/home/michael/dev/wdi/Project_4:Name_That_Tube/name_that_tube/tmp/cache/assets/development/sprockets/v3.0/104bgW7IAi8wAhAzzb0KzgAmSeK5WSFH8CyGJaCaNCQ.cache",
+		"/home/michael/dev/wdi/Project_4:Name_That_Tube/name_that_tube/tmp/cache/assets/development/sprockets/v3.0/dA7v68GqNpQu1QZIU2_HhcOeglqdC6IE2djk6l6MLcU.cache",
+		"/home/michael/dev/wdi/Project_4:Name_That_Tube/name_that_tube/app/assets/stylesheets/Semantic-UI-1.12.2/test/helpers/jasmine-clog.js",
+		"/home/michael/dev/wdi/Project_4:Name_That_Tube/name_that_tube/tmp/cache/assets/development/sprockets/v3.0/K6JxPXY3tmj6hdmEZgy-OXdJF9ks6v4FgovfljRM3qs.cache",
+		"/home/michael/dev/wdi/Project_4:Name_That_Tube/name_that_tube/tmp/cache/assets/development/sprockets/v3.0/7zJwPKaOOExHIWk0bsw12k5lx8AtbszkbamkgwYcsM4.cache",
+		"/home/michael/dev/wdi/Project_4:Name_That_Tube/name_that_tube/tmp/cache/assets/development/sprockets/v3.0/CdW51QxGriWMhusjmq6SbnDE88XNvjZ1oT_jHI4hO7A.cache",
+		"/home/michael/dev/wdi/Project_4:Name_That_Tube/name_that_tube/tmp/cache/assets/development/sprockets/v3.0/N1TLxjKrOluYOnzUZjpYP_hAInnEphLfN4HvDInr6d8.cache",
+		"/home/michael/dev/wdi/Project_4:Name_That_Tube/name_that_tube/tmp/cache/assets/development/sprockets/v3.0/Bknlc6JX4QkngBf_ZzYToHQOMiJajqnK4hNlMS0TGLA.cache",
+		"/home/michael/dev/wdi/Project_4:Name_That_Tube/name_that_tube/README.rdoc",
+		"/home/michael/dev/wdi/Project_4:Name_That_Tube/name_that_tube/tmp/cache/assets/development/sprockets/v3.0/V8kW_-hxMjPTqGcOdU-3s2Ad66PCt7XZqp8exYjRaSI.cache",
+		"/home/michael/dev/wdi/Project_4:Name_That_Tube/name_that_tube/tmp/cache/assets/development/sprockets/v3.0/Q5jNP2sKtPGCOcfC82NrP7xm1DuD0V61z7LXoa6oQbk.cache",
+		"/home/michael/dev/wdi/Project_4:Name_That_Tube/name_that_tube/tmp/cache/assets/development/sprockets/v3.0/G3pduqC9ZPs6n0OD4d_bdQryNrwIgN0-Wk6VfsibKVw.cache",
+		"/home/michael/dev/wdi/Project_4:Name_That_Tube/name_that_tube/tmp/cache/assets/development/sprockets/v3.0/GQown14d-Fdf-IuxglBP_opkLTyN-n4GVqwdshe8E9M.cache",
+		"/home/michael/dev/wdi/Project_4:Name_That_Tube/name_that_tube/tmp/cache/assets/development/sprockets/v3.0/5tGTStbI01eva5_DoDvNNhPLVQlfg5EnRC_puzseYT0.cache",
+		"/home/michael/dev/wdi/Project_4:Name_That_Tube/name_that_tube/tmp/cache/assets/development/sprockets/v3.0/gOts-cS-WCvzTA3wis0HQ8al_W-_mA2w_9sPO8wYLn0.cache",
+		"/home/michael/dev/wdi/Project_4:Name_That_Tube/name_that_tube/tmp/cache/assets/development/sprockets/v3.0/g3CdZj3OMUWE83ckJwuRsQNGn8M40VhuKqdk1MmPOIk.cache",
+		"/home/michael/dev/wdi/Knope/w02/d01/Classwork/afternoon/madlibs.js",
+		"/home/michael/dev/wdi/Knope/w02/d01/Classwork/afternoon/mustache1.js",
+		"/home/michael/dev/wdi/Knope/w02/d01/Homework/dear_diary/dear_diary.js",
+		"/home/michael/dev/wdi/Knope/w02/d01/Homework/completed_games/game1.txt",
+		"/home/michael/dev/wdi/Knope/w02/d01/Homework/completed_games/game1.js",
+		"/home/michael/dev/wdi/Knope/w02/d01/Classwork/3A_exercises/add.js",
+		"/home/michael/dev/wdi/Knope/w02/d01/Classwork/3A_exercises/subtract.js",
+		"/home/michael/dev/wdi/Knope/w02/d01/Classwork/3A_exercises/multiply.js",
+		"/home/michael/dev/wdi/Knope/w02/d01/Classwork/3A_exercises/division.js",
+		"/home/michael/dev/wdi/Knope/w02/d02/Classwork/d02_classwork.js",
+		"/home/michael/dev/wdi/Knope/w02/d02/Classwork/talkingheads.js",
+		"/home/michael/dev/wdi/Knope/w02/d02/Classwork/investigation.js",
+		"/home/michael/dev/wdi/Knope/w02/d02/Instructors/serial_solutions.js",
+		"/home/michael/dev/wdi/Knope/w02/d02/Classwork/alicejones.js",
+		"/home/michael/dev/wdi/Knope/w02/d01/Classwork/iterationfun.js",
+		"/home/michael/dev/wdi/Knope/w01/d05/Classwork/bumbler.js",
+		"/home/michael/dev/wdi/Knope/w01/d05/Classwork/hyphenator.js",
+		"/home/michael/dev/wdi/Knope/w01/d05/Classwork/knighter.js",
+		"/home/michael/dev/wdi/Knope/w01/d05/Classwork/leet.js",
+		"/home/michael/dev/wdi/Knope/w01/d05/Classwork/tagger.js",
+		"/home/michael/dev/wdi/Knope/w01/d05/Classwork/solutions.js",
+		"/home/michael/dev/wdi/Knope/w01/d04/Classwork/solutions.js",
+		"/home/michael/dev/wdi/Knope/w01/d02/CheckIn/js_basics.md",
+		"/home/michael/dev/wdi/Project_4:Name_That_Tube/name_that_tube/app/views/welcome/index.html.erb",
+		"/home/michael/dev/wdi/Project_4:Name_That_Tube/name_that_tube/app/views/categories/index.html.erb",
+		"/home/michael/dev/wdi/Project_4:Name_That_Tube/name_that_tube/app/views/sessions/new.html.erb",
+		"/home/michael/dev/wdi/Project_4:Name_That_Tube/name_that_tube/app/views/questionnaires/choose_answer.html.erb",
+		"/home/michael/dev/wdi/Project_4:Name_That_Tube/name_that_tube/app/views/video_clues/video.html.erb",
+		"/home/michael/dev/wdi/Project_4:Name_That_Tube/name_that_tube/app/views/questionnaires/success.html.erb",
+		"/home/michael/dev/wdi/Project_4:Name_That_Tube/name_that_tube/app/views/questionnaires/error.html.erb",
+		"/home/michael/dev/wdi/Project_4:Name_That_Tube/name_that_tube/app/views/questionnaires/show.html.erb",
+		"/home/michael/dev/wdi/Project_4:Name_That_Tube/name_that_tube/app/views/layouts/application.html.erb",
+		"/home/michael/dev/wdi/Project_4:Name_That_Tube/name_that_tube/app/controllers/sessions_controller.rb",
+		"/home/michael/dev/StokesDev/MySite/public/about.css",
+		"/home/michael/dev/StokesDev/MySite/views/index.erb",
+		"/home/michael/dev/StokesDev/MySite/public/index.css",
+		"/home/michael/dev/StokesDev/MySite/public/contact.css",
+		"/home/michael/dev/StokesDev/MySite/views/contact.erb",
+		"/home/michael/dev/wdi/Project_4:Name_That_Tube/name_that_tube/config/application.rb",
+		"/home/michael/dev/wdi/Project_4:Name_That_Tube/name_that_tube/app/assets/Videos/scan-tv-wall_wjm2a7bbb__D.mp4",
+		"/home/michael/dev/wdi/Project_4:Name_That_Tube/name_that_tube/app/controllers/questionnaires_controller.rb",
+		"/home/michael/dev/wdi/Project_4:Name_That_Tube/name_that_tube/app/controllers/players_controller.rb",
+		"/home/michael/dev/StokesDev/Sample Code/public/bootstrap/css/bootstrap.css",
+		"/home/michael/dev/wdi/Knope/w09/d02/Instructors/sinatra/public/index.html",
+		"/home/michael/dev/wdi/Knope/w09/d02/Instructors/sinatra/README.md",
+		"/home/michael/dev/wdi/Knope/w07/d03/Classwork/countries/node_modules/json-server/node_modules/lowdb/node_modules/lodash/lang/isNative.js",
+		"/home/michael/dev/wdi/Knope/w07/d04/Classwork/bookie-redux/node_modules/bower/node_modules/mout/src/lang/isNaN.js",
+		"/home/michael/dev/wdi/Knope/w05/d01/Homework/views/singlepatients.html",
+		"/home/michael/dev/wdi/Knope/w12/d01/Classwork/reactjs/node_modules/react-tools/src/browser/ui/dom/setInnerHTML.js",
+		"/home/michael/dev/wdi/Knope/.students/secret.js",
+		"/home/michael/dev/wdi/Knope/w08/d04/Classwork/countries-fresh/public/app.js",
+		"/home/michael/dev/wdi/Knope/w07/d03/Classwork/countries/README.md",
+		"/home/michael/dev/wdi/Knope/w08/d04/Classwork/countries/index.html",
+		"/home/michael/dev/wdi/Knope/w02/d01/Homework/word_counter.js",
+		"/home/michael/dev/wdi/Knope/w07/d04/Classwork/bookie-redux/node_modules/bower/node_modules/mout/lang/createObject.js",
+		"/home/michael/dev/wdi/Knope/w02/Classwork",
+		"/home/michael/dev/wdi/Knope/w10/ChefApp2/app/controllers/tickets_controller.rb",
+		"/home/michael/dev/wdi/Knope/w10/d02/Homework/chef/app/controllers/tickets_controller.rb",
+		"/home/michael/dev/wdi/Knope/w07/d04/Classwork/bookie-redux/node_modules/bower/node_modules/cardinal/test/cardinal-highlight-json.js",
+		"/home/michael/dev/wdi/Knope/.assets/semantic/components/checkbox.css",
+		"/home/michael/dev/wdi/Knope/w10/ChefApp2/tmp/cache/assets/development/sprockets/v3.0/LgJrz4GZhNeKxIh6SOoRbHD5WF-eCPC7FvuUmGSFCbg.cache",
+		"/home/michael/dev/wdi/Knope/.students/index.html",
+		"/home/michael/dev/wdi/Knope/w07/d04/Classwork/bookie-redux/node_modules/bower/node_modules/mout/lang/isNull.js",
+		"/home/michael/dev/wdi/Knope/.assets/semantic/components/tab.css",
+		"/home/michael/dev/wdi/Knope/w07/d04/Classwork/bookie-redux/node_modules/bower/node_modules/mout/number/toInt.js",
+		"/home/michael/dev/wdi/Knope/guides/hw_submission.md",
+		"/home/michael/dev/wdi/Knope/w06/d05/Homework/media/hobbit_theme.mp3",
+		"/home/michael/dev/wdi/Knope/w12/d01/Classwork/reactjs/node_modules/react-tools/src/browser/ui/dom/HTMLDOMPropertyConfig.js",
+		"/home/michael/dev/wdi/Knope/Ruby_Rails_Practice/myApp/app/helpers/subjects_helper.rb",
+		"/home/michael/dev/wdi/Knope/w05/d01/Classwork/puppies/show.html"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/home/michael/dev/wdi/Knope/w09/d04/Classwork/picz/app",
+			"/home/michael/dev/wdi/Knope/w05/d01/Classwork/puppies-Instructors"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"white",
+			"carousel{width:640px;\n       height:360px;}\n",
+			"City",
+			"username: johannes\n\n  # password: 123456",
+			"');\n",
+			"label",
+			"().",
+			";\n",
+			"9e12",
+			".copyright {\n	position: absolute;\n	left:7%;\n}\n ",
+			"9",
+			"cell",
+			"7em",
+			"30",
+			";\n",
+			"8",
+			"9em",
+			"link",
+			"30",
+			".container {\n	position: absolute;\n	top:23em;\n	left:10%;\n}",
+			"mp4",
+			"menu_item",
+			">",
+			"binding",
+			"\"} ",
+			"\"},",
+			"position",
+			":'',",
+			"'',",
+			"image",
+			"(\"\")",
+			"5",
+			"WHERid",
+			"where",
+			"db.all('select * from journal_entry where title = ' + city , {}, function(err, data){\n",
+			"select ",
+			"key",
+			"body",
+			" '",
+			"utf8",
+			"union square",
+			"word",
+			"process.argv",
+			"}\n"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"model",
+			"picture"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1593,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								736,
+								736
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "quiz_data.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1387,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								245,
+								245
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/quiz.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 438,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								199,
+								199
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "css/quiz.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3736,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1668,
+								1668
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "Quiz_App.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"notice",
+				"app/controllers/todo_items_controller.rb"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"inde",
+				"app/views/todo_lists/index.html.erb"
+			],
+			[
+				"to",
+				"app/controllers/todo_items_controller.rb"
+			],
+			[
+				"toco",
+				"app/controllers/todo_items_controller.rb"
+			],
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"seeds",
+				"db/seeds.rb"
+			],
+			[
+				"pg",
+				"tmp/cache/assets/development/sprockets/v3.0/pGACft31yx5oSWLMeyqhCZKQkjYEDEH01_EXf6LZwx8.cache"
+			],
+			[
+				"sinatra",
+				"w09/d02/Instructors/sinatra/public/index.html"
+			],
+			[
+				"countries",
+				"w08/d04/Classwork/countries-fresh/public/app.js"
+			],
+			[
+				"",
+				"w10/ChefApp2/app/controllers/tickets_controller.rb"
+			],
+			[
+				"tickets",
+				"w10/ChefApp2/app/controllers/tickets_controller.rb"
+			],
+			[
+				"not",
+				"w10/Notes"
+			],
+			[
+				"note",
+				"w10/Notes"
+			],
+			[
+				"notes",
+				"w10/Notes"
+			],
+			[
+				"main",
+				"projects/projectTwo/restaurant_group/starter/public/main.js"
+			],
+			[
+				"app.js",
+				"w10/d01/Instructors/auth_starter/app/assets/javascripts/application.js"
+			],
+			[
+				"app",
+				"projects/projectOne/forum/node_modules/express/lib/application.js"
+			],
+			[
+				"rest",
+				"projects/projectOne/forum/Restaurant_Group.html"
+			],
+			[
+				"aja",
+				"w07/d02/Classwork/ajax.html"
+			],
+			[
+				"puppies",
+				"Knope/w05/d01/Classwork/puppies-Instructors/views/index.html"
+			],
+			[
+				"pupp",
+				"Knope/w05/d01/Instructors/puppies/views/puppies.html"
+			],
+			[
+				"show",
+				"Knope/w05/d01/Classwork/puppies/show.html"
+			],
+			[
+				"semantic",
+				"Knope/w06/d02/Classwork/semantic.html"
+			],
+			[
+				"sem",
+				"Knope/projects/projectTwo/restaurant_group/starter/public/bower_components/semantic-ui/dist/semantic.js"
+			],
+			[
+				"seman",
+				"Knope/w06/d02/Classwork/semantic.html"
+			],
+			[
+				"reque",
+				"Knope/w03/d03/Classwork/request.js"
+			],
+			[
+				"cal",
+				"Knope/w04/d02/Classwork/calculator.html"
+			],
+			[
+				"request",
+				"Knope/w03/d03/Classwork/request.js"
+			],
+			[
+				"express",
+				"Knope/w04/d01/Homework/express.js"
+			],
+			[
+				"api",
+				"Knope/w03/d05/Homework/api-exercise.js"
+			],
+			[
+				"mus",
+				"Knope/w02/d01/Classwork/afternoon/mustach_example.js"
+			],
+			[
+				"nyc",
+				"Knope/w02/d03/Classwork/nyc.js"
+			],
+			[
+				"wrld",
+				"Knope/w04/d05/Homework/World_Traveler/wrldtrvlr.js"
+			],
+			[
+				"dogr",
+				"Knope/w04/d05/Classwork/Dogr/dogr.js"
+			],
+			[
+				"diary",
+				"w02/d01/Homework/dear_diary/dear_diary.js"
+			],
+			[
+				"dia",
+				"w02/d01/Homework/dear_diary/diary.txt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 152.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}

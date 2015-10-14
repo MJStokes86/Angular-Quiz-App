@@ -1,0 +1,16 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/home/michael/dev/JavaScript/AngularJS/quizApp"
+		}
+	],
+
+	"settings": {
+        "sublime-view-in-browser": {
+            "baseUrl": "http://localhost/quizApp",
+            "basePath": "/home/michael/dev/JavaScript/AngularJS/quizApp"
+        }
+    }
+}
